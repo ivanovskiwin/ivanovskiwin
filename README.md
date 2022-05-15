@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Ivanovski</h1>
-<h3 align="center">A passionate full-stack developer from Macedonia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Macedonia</h3>
 
 - 🌱 I’m currently attending **two Web Developer courses. SMX and SEDC.**
 
