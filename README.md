@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/ivanovskiwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanovskiwin" height="30" width="40" /></a>
 <a href="https://fb.com/ivan.ivanovski.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivan.ivanovski.75" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanivanovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanivanovski" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01a28f649a5fc47941" target="blank"><img align="center" src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/6092b794e0419d97d9b06e2b_Favicon%20256.png" alt="ivanovskiwin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
