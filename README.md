@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently attending **two Web Developer courses. SMX and SEDC.**
 
+- 👨🏽‍💻 **Computer Science Student**
+
 - 📫 How to reach me **ivanovskiwin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
